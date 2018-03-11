@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">WoW Character Trivia</string>
+    <string name="sylvanas">Sylvanas</string>
+    <string name="voljin">Vol\'jin</string>
+    <string name="varian">Varian</string>
+    <string name="anduin">Anduin</string>
+    <string name="submit">Submit\nAnswers</string>
+    <string name="leaders_question">As of the Legion expansion, who are the current faction leaders?</string>
+    <string name="character_trivia">Character Trivia</string>
+    <string name="who_am_i">Who Am I?</string>
+    <string name="guldan">Gul\'dan</string>
+    <string name="illidan">Illidan</string>
+    <string name="garrosh">Garrosh</string>
+    <string name="khadgar">Khadgar</string>
+    <string name="thrall">Thrall</string>
+    <string name="enter_name_here">Your Name Here</string>
+    <string name="jaina">Jaina</string>
+    <string name="fallen_heroes">Leading up to the Legion expansion, which two leaders did we see fall to the hands of the Legion?</string>
+    <string name="arthas">Arthas</string>
+    <string name="grom">Grom</string>
+    <string name="duratan">Duratan</string>
+    <string name="medivh">Medivh</string>
+    <string name="greymane">Greymane</string>
+    <string name="jin_do">Jin\'do</string>
+    <string name="hakkar">Hakkar</string>
+    <string name="daakara">Daakara</string>
+    <string name="chromie">Chromie</string>
+    <string name="valeera">Valeera</string>
+</resources>
